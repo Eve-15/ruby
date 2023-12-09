@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5e1380f972667fa4e84b0be79e250d2b
+timeCreated: 1487731351
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89451
+  packageName: Main menu with Parallax Effect FREE
+  packageVersion: 1.0
+  assetPath: Assets/Main menu with parallax FREE/Scripts/Settings.cs
+  uploadId: 177355

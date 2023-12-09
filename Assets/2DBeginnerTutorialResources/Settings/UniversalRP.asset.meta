@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 681886c5eb7344803b6206f758bf0b1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140167
+  packageName: '2D Beginner: Tutorial Resources'
+  packageVersion: 1.1.0
+  assetPath: Assets/2DBeginnerTutorialResources/Settings/UniversalRP.asset
+  uploadId: 561359

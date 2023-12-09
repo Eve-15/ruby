@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23a07c97e33f03d47a394c40a8f9418d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140167
+  packageName: '2D Beginner: Tutorial Resources'
+  packageVersion: 1.1.0
+  assetPath: Assets/2DBeginnerTutorialResources/Art/Animations/AnimationClips/Player/RubyRunRight.anim
+  uploadId: 561359

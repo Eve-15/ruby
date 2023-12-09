@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03a8dc2afbae8c14e8ddd760c0bb9e3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140167
+  packageName: '2D Beginner: Tutorial Resources'
+  packageVersion: 1.1.0
+  assetPath: Assets/2DBeginnerTutorialResources/Art/Animations/AnimationClips/Player/RubyIdleRight.anim
+  uploadId: 561359
